@@ -12,3 +12,4 @@ pom先配置
 
 然后主函数加注解
 ***@EnableDiscoveryClient***
+![3](https://github.com/Francis11h/eureka_client/blob/master/image/3.png)
