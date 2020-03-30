@@ -19,4 +19,12 @@ pom先配置
 
 ## eureka 的高可用
 为了防止 一个 server down掉 我们可以 启动两个 server 然后互相注册 构建联系 
+![4](https://github.com/Francis11h/eureka_client/blob/master/image/4.png)
   三节点两两注册即可 同理
+![6](https://github.com/Francis11h/eureka_client/blob/master/image/6.png)
+![7](https://github.com/Francis11h/eureka_client/blob/master/image/7.png)
+
+
+
+##总结
+![5](https://github.com/Francis11h/eureka_client/blob/master/image/5.png)
