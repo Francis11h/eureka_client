@@ -1,7 +1,8 @@
 eureka:
   client:
     service-url:
-      defalutZone: http://localhost:8761/eureka/
+      defalutZone: http://localhost:8761/eureka/, http://localhost:8762/eureka/
+      #每次向两个 eureka 注册即可
 
 spring:
   application:
